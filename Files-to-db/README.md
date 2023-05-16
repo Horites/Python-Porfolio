@@ -1,0 +1,1 @@
+This is a fun little project i made to have the possibility to save pictures i have lying around to a database file, so i can save them all in one spot.
